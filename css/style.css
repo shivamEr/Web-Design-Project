@@ -31,6 +31,7 @@
     list-style: none;
     float: left;
     padding-right: 25px;
+    padding-top: 30px;
     padding-top: 40px;
 }
 
@@ -38,7 +39,7 @@
     text-decoration: none;
     font-weight: bold;
     color: white;
-    font-size: large;
+    font-size:17px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -75,8 +76,52 @@
     padding-top: 50px;
     color: white;
 }
-
 /* Row-1 End */
 
 /* Row-2 Start */
+.row-2{
+    width: 100%;
+    height: 600px;
+}
+.about-section{
+    width: 90%;
+    height: 100%;
+    margin: 0 auto;
+}
+.about-title{
+    text-align: center;
+    font-size: 25px; 
+    padding: 55px 0px;
+ }
+ .about-title h1{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 30px;
+ }
+ .about-title p{
+    font-size: 16px;
+    padding-top: 20px;
+ }
+.about-item-all{
+    padding: 30px 0px;
+}
+.about-item{
+    width: 23%;
+    float: left;
+    text-align: center;
+    padding-left: 20px;
+}
+.about-item img{ 
+    padding-bottom: 20px;
+}
+.about-item h1{
+    padding-bottom: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.about-item p{
+    text-align: justify;
+    line-height: 25px;
+}
+.alignment{
+    padding-top: 20px;
+}
 /* Row-2 End */
