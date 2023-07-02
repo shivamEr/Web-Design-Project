@@ -39,7 +39,7 @@
     text-decoration: none;
     font-weight: bold;
     color: white;
-    font-size:17px;
+    font-size: 17px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -66,133 +66,161 @@
     padding: 20px 25px;
     display: inline;
 }
-.main-content p{
+
+.main-content p {
     color: white;
     font-size: 35px;
     padding-top: 25px;
 }
-.main-content h3{
+
+.main-content h3 {
     font-size: 100px;
     padding-top: 50px;
     color: white;
 }
+
 /* Row-1 End */
 
 /* Row-2 Start */
-.row-2{
+.row-2 {
     width: 100%;
     height: 600px;
 }
-.about-section{
+
+.about-section {
     width: 90%;
     height: 100%;
     margin: 0 auto;
 }
-.about-title{
+
+.about-title {
     text-align: center;
-    font-size: 25px; 
+    font-size: 25px;
     padding: 55px 0px;
- }
- .about-title h1{
+}
+
+.about-title h1 {
     font-family: Arial, Helvetica, sans-serif;
     padding-top: 30px;
- }
- .about-title p{
+}
+
+.about-title p {
     font-size: 16px;
     padding-top: 20px;
- }
-.about-item-all{
+}
+
+.about-item-all {
     padding: 30px 0px;
 }
-.about-item{
+
+.about-item {
     width: 23%;
     float: left;
     text-align: center;
     padding-left: 20px;
 }
-.about-item img{ 
+
+.about-item img {
     padding-bottom: 20px;
 }
-.about-item h1{
+
+.about-item h1 {
     padding-bottom: 25px;
     font-family: Arial, Helvetica, sans-serif;
 }
-.about-item p{
+
+.about-item p {
     text-align: justify;
     line-height: 25px;
 }
-.alignment{
+
+.alignment {
     padding-top: 20px;
 }
+
 /* Row-2 End */
 
 /* Row-3 Start */
-.row-3{
+.row-3 {
     width: 100%;
     height: 600px;
-    background-color:rgb(219, 210, 210);
+    background-color: rgb(219, 210, 210);
 }
-.service-setion{
+
+.service-setion {
     width: 90%;
     height: 100%;
     margin: 0 auto;
 }
-.service-title{
+
+.service-title {
     text-align: center;
 }
-.service-title h1{
+
+.service-title h1 {
     padding-top: 70px;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 30px;
 }
-.service-title p{
+
+.service-title p {
     padding-top: 20px;
     font-size: 18px;
 }
-.service-item-all{
+
+.service-item-all {
     margin-top: 100px;
 }
-.service-item{
+
+.service-item {
     float: left;
     padding-left: 50px;
-    
+
 }
+
 /* Row-3 End */
 
 /* Row-4 Start */
-.row-4{
+.row-4 {
     width: 100%;
-    height: 100%;
+    height: 1150px;
 }
-.portfolio-section{
+
+.portfolio-section {
     width: 90%;
     height: 100%;
     margin: 0 auto;
 }
-.portfolio-title{
+
+.portfolio-title {
     text-align: center;
     padding-top: 100px;
 }
-.portfolio-title h1{
+
+.portfolio-title h1 {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 30px;
 }
-.portfolio-title p{
+
+.portfolio-title p {
     padding-top: 20px;
     line-height: 25px;
 }
-.portfolio-menu{
+
+.portfolio-menu {
     padding-top: 50px;
     padding-left: 200px;
     /* width: 60%;
     height: 100%; */
 }
-.portfolio-menu ul li{
+
+.portfolio-menu ul li {
     float: left;
     padding-left: 50px;
     list-style: none;
 }
-.portfolio-menu ul li a{
+
+.portfolio-menu ul li a {
     text-decoration: none;
     color: white;
     padding: 10px;
@@ -200,18 +228,89 @@
     font-family: Arial, Helvetica, sans-serif;
     background-color: black;
 }
-.portfolio-menu ul li a:hover{
+
+.portfolio-menu ul li a:hover {
     background-color: rgb(36, 185, 36);
 }
-.portfolio-all-item{
+
+.portfolio-all-item {
     margin-top: 100px;
 }
-.portfolio-item{
+
+.portfolio-item {
     float: left;
     padding-left: 50px;
     padding-top: 30px;
 }
+
 /* Row-4 End */
 
-/* Row-4 Start */
-/* Row-4 End */
+/* Row-5 Start */
+.row-5 {
+    width: 100%;
+    height: 750px;
+}
+
+.pricing-section {
+    width: 90%;
+    height: 100%;
+    margin: 0 auto;
+}
+.pricing-title{
+    text-align: center;
+    padding-top: 60px;
+}
+.pricing-title h1{
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.pricing-title p{
+    padding-top: 20px;
+    line-height: 25px;
+}
+.pricing-item-all{
+    margin-top: 100px;
+}
+.pricing-item{
+    float: left;
+    width: 17%;
+    text-align: center;
+    background-color: black;
+    margin-left: 80px;
+    color: white;
+    height: 440px;
+}
+.pricing-item h1{
+    padding: 30px;
+    border: 2px solid white;
+    border-radius: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px 40px;
+    border-width: 6px;
+}
+.pricing-item p{
+    border-bottom: 2px solid white;
+    margin: 20px 40px;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+    
+}
+.pricing-item button{
+    margin-top: 25px;
+    padding: 10px 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    border: none;
+}
+.pricing-item button:hover{
+    color: rgb(34, 202, 34);
+}
+.bg-green{
+    background-color: rgb(43, 227, 43);
+}
+/* Row-5 End */
+
+/* Row-6 Start */
+/* Row-6 End */
