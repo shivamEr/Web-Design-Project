@@ -351,4 +351,47 @@
 /* Row-6 End */
 
 /* Row-7 Start */
+.row-7{
+    width: 100%;
+    height: 730px;
+}
+.contact-section{
+    width: 90%;
+    height: 100%;
+    margin: 0 auto;
+}
+.contact-title{
+    text-align: center;
+    padding-top: 120px;
+}
+.contact-title h1{
+    color: black;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.contact-title p{
+    padding-top: 60px;
+    font-size: 18px;
+}
+.contact-item-all{
+    margin-top: 100px;
+}
+.contact-item{
+    float: left;
+    text-align: center;
+    width: 23%;
+    margin-left: 20px;
+}
+.contact-item h1{
+    padding-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.contact-item p{
+    padding-top: 12px;
+    color: rgba(0, 0, 0, 0.783);
+}
 /* Row-7 End */
+
+/* Row-8 Start */
+/* Row-8 End */
