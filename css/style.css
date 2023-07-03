@@ -310,7 +310,45 @@
 .bg-green{
     background-color: rgb(43, 227, 43);
 }
+.row-6 img{
+   width: 100%;
+}
 /* Row-5 End */
 
 /* Row-6 Start */
+.row-6{
+    width: 100%;
+    height: 350px;
+    background: url(/images/skillBg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 100px;
+}
+.skill-item-all{
+    width: 90%;
+    height: 100%;
+    margin: 0 auto;
+    padding-top: 70px;
+}
+.skill-item{
+    float: left;
+    width: 15%;
+    margin: 50px;
+    padding: 20px 10px;
+    text-align: center;
+    border: 1px solid white;
+}
+.skill-item h1{
+    color: white;
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.skill-item p{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 20px;
+}
 /* Row-6 End */
+
+/* Row-7 Start */
+/* Row-7 End */
