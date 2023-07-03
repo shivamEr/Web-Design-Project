@@ -467,5 +467,28 @@
 
 /* Row-8 End */
 
-/* Row-8 Start */
-/* Row-8 End */
+/* Row-9 Start */
+.row-9{
+    width: 100%;
+    height: 70px;
+    background-color: black;
+    text-align: center;
+}
+.footer-section{
+    float: left;
+    padding-top: 30px;
+    width: 50%;
+    margin-left: 300px;
+
+    
+}
+.footer-section p{
+    color: rgba(255, 255, 255, 0.715);
+    font-size: 11px;
+}
+.footer-social img{
+    padding-top: 20px;
+    padding-left: 10px;
+}
+
+/* Row-9 End */
